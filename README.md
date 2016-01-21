@@ -2,8 +2,8 @@
 Simplified CSS FlexBox properties easy to use as Legos
 
 
-<link rel="stylesheet" href="https://raw.githubusercontent.com/octobot-dev/flegobox/master/stylesheets/flegobox.css">
-<link rel="stylesheet" href="https://raw.githubusercontent.com/octobot-dev/flegobox/master/demos/stylesheets/site.css">
+<link rel="stylesheet" href="flegobox/stylesheets/flegobox.css">
+<link rel="stylesheet" href="flegobox/demos/stylesheets/site.css">
   
 <h1 class="flego-center"> Flegobox Framework </h1>
   <div class="outer">
